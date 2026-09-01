@@ -214,9 +214,6 @@ Indic-Hateful-Meme-Dataset/
 
 ---
 
-Important: The repository does not redistribute the IndicHM dataset. Dataset files must be obtained through the official access procedure.
----
-
 ## 🔄 Reproducibility
 
 We ensure reproducibility through:
