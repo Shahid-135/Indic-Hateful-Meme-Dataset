@@ -231,7 +231,7 @@ We ensure reproducibility through:
 
 If you use the **IndicHM Dataset** in your research, please cite:
 
-citation coming soon!!! Stay Tuned!!!
+Official citation coming soon!!! Stay Tuned!!!
 
 
 # 🤝 Responsible Research
