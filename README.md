@@ -1,4 +1,3 @@
-# Indic Hateful Meme dataset
 # Dataset Access
 Access to the dataset is restricted to academic and research purposes. To request access, please ensure compliance with the following requirements:
 
