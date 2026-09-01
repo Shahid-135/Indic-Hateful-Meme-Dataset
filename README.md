@@ -1,17 +1,3 @@
-# Dataset Access
-Access to the dataset is restricted to academic and research purposes. To request access, please ensure compliance with the following requirements:
-
-- **Non-Commercial Use:** The dataset is provided exclusively for academic research and non-commercial purposes. Any form of commercial use, direct or indirect, is strictly prohibited. It must not be used to develop or market commercial products or services.
-
-- **No Redistribution:** The dataset must not be redistributed, republished, or shared in any form, whether in full or in part, across any public or private repositories, platforms, or social media. Users must store the dataset in secure environments and ensure that unauthorized parties do not gain access.
-
-- **Compliance with Platform Policies:** As this dataset is derived from publicly available Pinterest and Reddit data, users must comply with the platform's Developer Agreement and Policies. This includes adhering to data usage and privacy guidelines, ensuring that no actions breach content redistribution rules.
-
-- **Academic Integrity:** The dataset must only be used for legitimate academic research. Researchers are responsible for ensuring that their use of the dataset does not contravene any ethical standards, particularly regarding data privacy and responsible usage.
-
-1. Important: Use your institutional email address when submitting the form. Requests from personal email addresses will not be considered.
-2. First, please fill out this [Consent Form](https://docs.google.com/document/d/1G1kSiTy53pZ5KZOVCoTQCKTJ415cYCTL/edit?usp=sharing&ouid=107493269096531134179&rtpof=true&sd=true), and then upload it in the [Dataset Request Form](https://forms.gle/CLT4pM4NTKZYWCEG7) along with your details. Once your request is reviewed and approved, you will receive an email with instructions on how to download the dataset.
-
 # Overview
 We introduce the IndicHM Dataset, a large-scale multilingual multimodal benchmark consisting of 15.004K hateful and non-hateful memes annotated across five hate categories—Gender-based Hate, Religious Hate, Political Hate, Racist Hate, and Other Forms of Hate. The dataset spans three languages: Hindi, English, and Bengali, with the Hindi and Bengali subsets containing code-mixed content that blends native scripts with English. Built upon this dataset, We propose IndicHMNet, a task-aware multilingual multimodal framework for hateful meme detection that jointly models visual and textual cues while explicitly addressing cross-modal incongruity. The model leverages a pretrained SigLIP2 encoder for aligned image–text representations and fuses them using a disagreement-aware gated mechanism to emphasize the dominant modality. Hate detection is trained with supervised classification augmented by label-conditioned retrieval-guided contrastive learning, while target classification is learned independently.
 
