@@ -245,6 +245,3 @@ For questions regarding dataset access, research collaboration, or the IndicHM b
 
 ---
 
-## ⭐ Acknowledgement
-
-We thank researchers and institutions interested in advancing **multilingual, multimodal, and socially responsible AI** for their interest in IndicHM.
