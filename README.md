@@ -1,7 +1,7 @@
 # 📊 IndicHM Dataset
 
 <p align="center">
-  <strong>A Large-Scale Multilingual Multimodal Benchmark for Hateful Meme Detection in Indic Languages</strong>
+  <strong>IndicHM is a Large-Scale Multilingual Multimodal Benchmark for Hateful Meme Detection in Indic Languages</strong>
 </p>
 
 <p align="center">
