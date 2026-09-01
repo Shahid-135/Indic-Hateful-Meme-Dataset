@@ -786,16 +786,20 @@ We propose a **task-aware multilingual multimodal framework** for hateful meme d
 ---
 
 ## 📁 Repository Structure
+Indic-Hateful-Meme-Dataset/
+│
+├── Code/
+│   ├── Model implementations
+│   ├── Training scripts
+│   └── Evaluation scripts
+│
+├── Figures/
+│   └── Plots and visualizations
+│
+├── README.md
 
-IndicHM/
-├── Images/ # Dataset images
-├── Code/ # Model, training, and evaluation code
-│ ├── models/
-│ ├── training/
-│ └── evaluation/
-├── Figures/ # Plots and visualizations
-└── README.md # This file
 
+Important: The repository does not redistribute the IndicHM dataset. Dataset files must be obtained through the official access procedure.
 ---
 
 ## 🔄 Reproducibility
@@ -812,10 +816,4 @@ We ensure reproducibility through:
 
 If you use the **IndicHM Dataset** in your research, please cite:
 
-```bibtex
-@article{indichm2024,
-  title={IndicHM: A Large-Scale Multilingual Multimodal Benchmark for Hateful Meme Detection},
-  author={[Author Names]},
-  journal={[Journal/Conference]},
-  year={2024}
-}
+citation coming soon!!! Stay Tuned!!!
