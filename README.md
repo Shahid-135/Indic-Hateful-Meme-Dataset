@@ -195,7 +195,12 @@ We propose a **task-aware multilingual multimodal framework** for hateful meme d
 ---
 
 ## 📁 Repository Structure
+
+```text
 Indic-Hateful-Meme-Dataset/
+│
+├── Images/
+│   └── Dataset images
 │
 ├── Code/
 │   ├── Model implementations
@@ -206,7 +211,12 @@ Indic-Hateful-Meme-Dataset/
 │   └── Plots and visualizations
 │
 ├── README.md
+└── LICENSE
+```
 
+> **Important:** The repository does **not** redistribute the IndicHM dataset. Dataset files must be obtained through the official access procedure.
+
+---
 
 Important: The repository does not redistribute the IndicHM dataset. Dataset files must be obtained through the official access procedure.
 ---
@@ -226,3 +236,22 @@ We ensure reproducibility through:
 If you use the **IndicHM Dataset** in your research, please cite:
 
 citation coming soon!!! Stay Tuned!!!
+
+
+# 🤝 Responsible Research
+
+IndicHM is intended to facilitate research on multilingual hateful-content detection and **AI for social good**.
+
+Researchers are encouraged to consider the potential societal impact of automated hate detection systems, including false positives, false negatives, language-specific performance disparities, and the challenges associated with culturally and linguistically diverse online content.
+
+---
+
+# 📬 Contact
+
+For questions regarding dataset access, research collaboration, or the IndicHM benchmark, please contact the authors through the contact information provided with the associated publication.
+
+---
+
+## ⭐ Acknowledgement
+
+We thank researchers and institutions interested in advancing **multilingual, multimodal, and socially responsible AI** for their interest in IndicHM.
