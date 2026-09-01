@@ -199,9 +199,6 @@ We propose a **task-aware multilingual multimodal framework** for hateful meme d
 ```text
 Indic-Hateful-Meme-Dataset/
 │
-├── Images/
-│   └── Dataset images
-│
 ├── Code/
 │   ├── Model implementations
 │   ├── Training scripts
@@ -210,8 +207,7 @@ Indic-Hateful-Meme-Dataset/
 ├── Figures/
 │   └── Plots and visualizations
 │
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 > **Important:** The repository does **not** redistribute the IndicHM dataset. Dataset files must be obtained through the official access procedure.
