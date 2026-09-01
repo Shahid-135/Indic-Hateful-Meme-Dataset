@@ -15,7 +15,7 @@ The benchmark is designed to support research on **multilingual multimodal hate 
 IndicHM contains **15,004 hateful and non-hateful memes** distributed across three languages:
 
 * 🇮🇳 **Hindi**
-* 🇬🇧 **English**
+* En **English**
 * 🇧🇩 **Bengali**
 
 Hateful memes are further annotated into five target categories:
@@ -340,22 +340,6 @@ Access may be denied or revoked if these conditions are violated.
 
 ---
 
-# 📚 Citation
-
-If you use **IndicHM** or **IndicHMNet** in your research, please cite the associated publication:
-
-```bibtex
-@inproceedings{indicHM,
-  title     = {IndicHM: A Multilingual Multimodal Hateful Meme Dataset},
-  author    = {Shahid Shafi Dar and Mohd Aamir and Arindol Sarkar and Hrishiraj Chowdhury},
-  booktitle = {Proceedings of the ...},
-  year      = {2026}
-}
-```
-
-> Please replace the BibTeX entry with the final publication metadata once the paper is officially published.
-
----
 
 # 🤝 Responsible Research
 
