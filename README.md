@@ -1,5 +1,5 @@
 # Indic Hateful Meme dataset
-## Dataset Access
+# Dataset Access
 Access to the dataset is restricted to academic and research purposes. To request access, please ensure compliance with the following requirements:
 
 - **Non-Commercial Use:** The dataset is provided exclusively for academic research and non-commercial purposes. Any form of commercial use, direct or indirect, is strictly prohibited. It must not be used to develop or market commercial products or services.
@@ -13,13 +13,13 @@ Access to the dataset is restricted to academic and research purposes. To reques
 1. Important: Use your institutional email address when submitting the form. Requests from personal email addresses will not be considered.
 2. First, please fill out this [Consent Form](https://docs.google.com/document/d/1G1kSiTy53pZ5KZOVCoTQCKTJ415cYCTL/edit?usp=sharing&ouid=107493269096531134179&rtpof=true&sd=true), and then upload it in the [Dataset Request Form](https://forms.gle/CLT4pM4NTKZYWCEG7) along with your details. Once your request is reviewed and approved, you will receive an email with instructions on how to download the dataset.
 
-## Overview
+# Overview
 We introduce the IndicHM Dataset, a large-scale multilingual multimodal benchmark consisting of 15.004K hateful and non-hateful memes annotated across five hate categories—Gender-based Hate, Religious Hate, Political Hate, Racist Hate, and Other Forms of Hate. The dataset spans three languages: Hindi, English, and Bengali, with the Hindi and Bengali subsets containing code-mixed content that blends native scripts with English. Built upon this dataset, We propose IndicHMNet, a task-aware multilingual multimodal framework for hateful meme detection that jointly models visual and textual cues while explicitly addressing cross-modal incongruity. The model leverages a pretrained SigLIP2 encoder for aligned image–text representations and fuses them using a disagreement-aware gated mechanism to emphasize the dominant modality. Hate detection is trained with supervised classification augmented by label-conditioned retrieval-guided contrastive learning, while target classification is learned independently.
 
-## Motivation
+# Motivation
 Hateful memes derive their meaning from the interaction between textual and visual cues, making them challenging for unimodal approaches. Despite their widespread use on social media, multilingual multimodal meme data—especially for Indic languages—remains scarce, with most existing resources being English-centric. This limitation is particularly critical in India, a linguistically diverse country with multiple regional languages, where online content is often multilingual and code-mixed. The absence of representative datasets for such settings motivates the creation of a dedicated multilingual multimodal hateful meme dataset (IndicHM) to support robust hate detection research in Indic languages.
 
-## Dataset
+# Dataset
 Our dataset (IndicHM) is a multilingual multimodal resource for hate meme analysis spanning three languages: Hindi, English, and Bengali.
 The dataset supports two evaluation tasks:
 
